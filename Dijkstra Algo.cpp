@@ -155,13 +155,13 @@ int main()
 	 
 	
 	 Graph-
-	        	6     		2
+	        6     		2
 	chennia---------delhi--------goa
-	    |	   		|	      	 |
-	 2  |	  	   4|	  		 |  9
-	    |      		| 	  		 |
+	    |	   	|	     |
+	 2  |	       4|  	     |  9
+	    |      	| 	     |
 	indore---------mumbai--------hyderabad				
-			5	   	     	2
+		5	   	 2
 		
 		input-
 		chennai delhi 6
