@@ -5,7 +5,7 @@ INTRODUCTION-
 In this project we will be using Dijkstra’s Algorithm to find the shortest path between two destination which will be used for flight bookings. The program will first allow the user to create a graph by taking inputs, then the program will display the list of city. The user can then input a departure and destination city. Then the program will find shortest path between the two destinations using Dijkstra’s shortest path algorithm. Then the shortest path and its relative prices will be printed.
 
 <h2>
-List of Data Structures used in the project-
+List of Data Structures used-
 </h2>
 
 •	Graphs
